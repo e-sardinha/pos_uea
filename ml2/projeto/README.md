@@ -4,7 +4,7 @@
 
 Descobrir os fatores que mais influenciam na expectativa de vida no mundo de forma geral, no Brasil de forma específica, e construiur um modelo que preveja a expectativa de vida de um indivíduo.
 
-Usamos os dados do dataset **Life Expectancy (WHO)** (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/). Trata-se de um dataset público disponibilizado pela OMS (Organização Mundial de Saúde) que descreve fatores que influenciam a expectativa de vida em 193 países. O dataset contém dados coletados ao longo de 16 anos (2000-2015) e consiste de 22 colunas, 2938 linhas e 20 variáveis.
+Usamos os dados do dataset **Life Expectancy (WHO)** (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/). Trata-se de um dataset público disponibilizado pela OMS (Organização Mundial de Saúde) que descreve fatores que influenciam a expectativa de vida em 193 países. O dataset contém dados coletados ao longo de 16 anos (2000-2015) e consiste de 22 colunas, 2938 linhas e 21 variáveis.
 
 Nosso objetivo é analisar as variáveis mais relevantes e construir um modelo a partir desse subconjunto, avaliando o impacto delas no modelo de predição (regressão).
 
